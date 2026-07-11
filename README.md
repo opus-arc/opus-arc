@@ -5,6 +5,7 @@
 
 ![WakaTime Overview](https://github-stats-api-delta.vercel.app/api/wakatime-detailed?section=overview)
 ![WakaTime Breakdown](https://github-stats-api-delta.vercel.app/api/wakatime-detailed?section=breakdown)
+![WakaTime Historical Backfill](https://github-stats-api-delta.vercel.app/api/wakatime-detailed?section=history)
 ![WakaTime AI Coding](https://github-stats-api-delta.vercel.app/api/wakatime-detailed?section=ai)
 
 <!--END_SECTION:waka-->
