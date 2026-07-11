@@ -3,10 +3,8 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-From: 03 July 2026 - To: 10 July 2026
-
-No activity tracked
-```
+![WakaTime Overview](https://github-stats-api-delta.vercel.app/api/wakatime-detailed?section=overview)
+![WakaTime Breakdown](https://github-stats-api-delta.vercel.app/api/wakatime-detailed?section=breakdown)
+![WakaTime AI Coding](https://github-stats-api-delta.vercel.app/api/wakatime-detailed?section=ai)
 
 <!--END_SECTION:waka-->
