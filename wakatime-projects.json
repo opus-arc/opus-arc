@@ -1,0 +1,24 @@
+{
+  "description": "Projects allowed in the WakaTime Breakdown SVG. Matching is case-insensitive. Edit this list directly on GitHub; changes normally appear after the SVG cache refreshes.",
+  "minimum_display_minutes": 30,
+  "projects": [
+    "Aozora",
+    "Arc's Playground",
+    "bBpiano",
+    "Bibo_no_blueBird",
+    "Bookshelf Website",
+    "freform.club",
+    "github-profile-https-github-com-opus",
+    "github-stats-extended-shallow",
+    "igix",
+    "Java Spring Boot 前后端日程管理",
+    "Javafx Notebook",
+    "Karios",
+    "Mcat",
+    "Motif",
+    "Pixel Art Souls-Like FreeKnight",
+    "profile",
+    "wakatime-svg-readme-vercel-push-github",
+    "会计科目扁平化"
+  ]
+}
