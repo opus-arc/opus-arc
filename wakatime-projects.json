@@ -1,6 +1,6 @@
 {
   "description": "Projects allowed in the WakaTime Breakdown SVG. Matching is case-insensitive. Edit this list directly on GitHub; changes normally appear after the SVG cache refreshes.",
-  "minimum_display_minutes": 30,
+  "minimum_display_minutes": 0,
   "projects": [
     "Aozora",
     "Arc's Playground",
