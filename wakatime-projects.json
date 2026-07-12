@@ -7,13 +7,14 @@
     "ForScore": "ForScore Tooling",
     "Infuse": "Infuse Tooling",
     "Notion": "Notion Tooling",
-    "Obsidian": "Obsidian Tooling"
+    "Obsidian": "Obsidian Tooling",
+    "Bibo_no_blueBird": "bBpiano",
+    "blueBird": "bBpiano"
   },
   "projects": [
     "Aozora",
     "Arc's Playground",
     "bBpiano",
-    "Bibo_no_blueBird",
     "Bookshelf Website",
     "Exploration & Learning",
     "ForScore Tooling",
